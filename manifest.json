@@ -1,0 +1,16 @@
+{
+  "name": "タバコ記録",
+  "short_name": "タバコ",
+  "start_url": "tabaco.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://github.com/ondecadence1946-14/mylog-icons/blob/main/icon-tabaco.png?raw=true",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
